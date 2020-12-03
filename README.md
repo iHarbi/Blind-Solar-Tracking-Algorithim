@@ -3,3 +3,4 @@
  This Code is based on Solar Angles[Azimuth and Altitude] simultaneous change stepsize is taken to be 15 Seconds
  Feel free to edit it and sew it to your project.
  initailization is Required For first time of operation.
+# This was part of first Semster of my 2nd Year of Mech. Depart. Group Project
